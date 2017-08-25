@@ -1,4 +1,4 @@
-Mambo RS Edu bluetooth networking HOWTO
+Mambo RS Edu Bluetooth Networking HOWTO
 =======================================
 
 > Warning/disclaimer: this HOWTO requires a Parrot Mambo flashed with the custom firmware
@@ -99,8 +99,8 @@ You can now open a shell on the drone:
 $ telnet 192.168.3.1
 ```
 
-**You're all set, happy hacking !**
+You're all set, happy hacking !
 
-[sc01]: https://github.com/Parrot-Developers/MinidronesEdu/images/mambo_rsedu_01.png "Mambo device with type Doll"
-[sc02]: https://github.com/Parrot-Developers/MinidronesEdu/images/mambo_rsedu_02.png "Paired Mambo device"
-[sc03]: https://github.com/Parrot-Developers/MinidronesEdu/images/mambo_rsedu_03.png "NetworkManager text control interface"
+[sc01]: https://github.com/Parrot-Developers/MinidronesEdu/raw/master/images/mambo_rsedu_01.png "Mambo device with type Doll"
+[sc02]: https://github.com/Parrot-Developers/MinidronesEdu/raw/master/images/mambo_rsedu_02.png "Paired Mambo device"
+[sc03]: https://github.com/Parrot-Developers/MinidronesEdu/raw/master/images/mambo_rsedu_03.png "NetworkManager text control interface"
